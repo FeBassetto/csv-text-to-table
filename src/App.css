@@ -3,6 +3,10 @@
   flex-direction: column;
   align-items: center;
   width: 100vw;
+  min-height: 100vh;
+  padding: 20px 0;
+  background-color: #000000;
+  box-sizing: border-box;
 }
 
 .CsvInput,
@@ -35,7 +39,7 @@
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: #f9f9f9;
+  background-color: #000000;
 }
 
 th,
